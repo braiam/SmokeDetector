@@ -20,4 +20,4 @@ sudo pip install websocket-client
 To run: `python ws.py`, preferably in a daemon-able mode. Like in a `screen` session.
 
 
-You can run `. ChatExchange/setp.sh` to set local environment variables so that you don't have to log in every time. Only supports SE openids for now
+You can run `. ChatExchange/setup.sh` to set local environment variables so that you don't have to log in every time. Only supports SE openids for now
